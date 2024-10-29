@@ -1,0 +1,2 @@
+page_max=4;title=Bad dream;
+:<img src="bad_dream/bad_dream_%n.png" />

@@ -1,0 +1,4 @@
+page_max=10;title=Cif's melancholy;
+:<img src="cifs_melancholy/cifs_melancholy_%n.png">
+9: 
+10:<img src="cifs_melancholy/cifs_melancholy_ex.png">
