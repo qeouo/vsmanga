@@ -3,8 +3,8 @@ page_max=9;file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4kom
 2:<img src="yonkoma/bird.png" /><img src="yonkoma/smartbull.png" />
 3:<img src="yonkoma/mario.png" /><img src="yonkoma/rest.png" />
 4:<img src="yonkoma/chest.png" /><img src="yonkoma/cleaner.png" />
-5:<img src="yonkoma/easyproblem.png" /><img src="yonkoma/mimic_bee.png" />
-6:<img src="yonkoma/daipan.png" /><img src="yonkoma/lev_error.png" />
+5:<a href="./yonkoma/ice.png"><img src="yonkoma/easyproblem.png" /></a><img src="yonkoma/mimic_bee.png" />
+6:<a href="./yonkoma/daipan_rejected.png"><img src="yonkoma/daipan.png" /></a><img src="yonkoma/lev_error.png" />
 7:<img src="yonkoma/face_to_face.png" /><img src="yonkoma/sleeping_cif.png" />
 8:<img src="yonkoma/sleeping_cif2.png" /><img src="yonkoma/damaged_tail.png" />
 9:<img src="yonkoma/rip_current.png" /><img src="yonkoma/sword_blade.png" />
