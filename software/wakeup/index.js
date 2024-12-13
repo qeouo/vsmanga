@@ -19,8 +19,8 @@ var palette=[
 var CELL_SIZE;
 var CELL_ROW;
 var CELL_COL;
-var lighter_step;
-var square_num;
+var brighten_step;
+var square_gen;
 var bold;
 
 class Square{
@@ -104,7 +104,7 @@ function createSquare(){
 	}
 }
 
-function lighter(){
+function brighter(){
 	level++;
 	rendering();
 }
@@ -118,16 +118,16 @@ var step_count=0;
 function main(){
 	start_stop=!start_stop;
 }
-var lighter_step_count=0;
+var brighten_step_count=0;
 function step(){
 	level = Number(tb_level.value);
-	if(lighter_step <=lighter_step_count){
+	if(brighten_step <=brighten_step_count){
 		level++;
-		lighter_step_count=0;
+		brighten_step_count=0;
 	}
-	lighter_step_count++;
+	brighten_step_count++;
 
-	for(var i=0;i<square_num;i++){
+	for(var i=0;i<square_gen;i++){
 		createSquare();
 	}
 
@@ -154,15 +154,15 @@ function loop(){
 
 }
 function reset(){
-	lighter_step = Number(document.getElementById("lighter_step").value);
-	lighter_step_count=lighter_step;
+	brighten_step = Number(document.getElementById("brighten_step").value);
+	brighten_step_count=brighten_step;
 	level=0;
 
 	canvas.width = img.naturalWidth
 	canvas.height = img.naturalHeight
 	ctx.reset();
 	var cell_num = Number(document.getElementById("cell_num").value);
-	square_num = Number(document.getElementById("square_num").value);
+	square_gen = Number(document.getElementById("square_gen").value);
 
 	CELL_SIZE = (canvas.width /cell_num)|0;
 	CELL_SIZE -=CELL_SIZE%4;
