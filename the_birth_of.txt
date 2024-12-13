@@ -1,0 +1,2 @@
+page_max=4;title=The Birth of the Knight of the Heavens;
+:<img src="the_birth_of/the_birth_of_%n.png">
