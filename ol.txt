@@ -1,5 +1,5 @@
 double_page=0;title=objectionable literature;
 1:<img src="ol/famima.png" style="max-height:80%;"/><br>I avoid content that people overseas may not understand.
 2:<img src="ol/sokonoomae.png" style="max-height:80%;"/><br>Many people will not understand what this means either.
-3:<img src="ol/bee_aomuke.png" style="max-height:80%;"/><br>Bird is disciplined.
+3:<img src="ol/bee_aomuke.png" style="max-height:80%;"/><br>Bird is the keeper of order.
 4:<img src="ol/mtg.png" />
