@@ -63,6 +63,7 @@ div.page{
 	display:inline-block;
 	text-align:center;
 	vertical-align:middle;
+	white-space:wrap;
 
 }
 #view[double_page="0"] div.page{
