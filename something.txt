@@ -4,4 +4,4 @@ page_max=6;file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void nank
 3:<img src="yonkoma/something/real.png" /><img src="yonkoma/something/chest2.png" />
 4:<img src="yonkoma/something/gratitude.png" /><img src="yonkoma/something/welovelev.png" />
 5:<a href="./yonkoma/something/20240508.png"><img src="yonkoma/something/drill_heart.png" /></a><img src="yonkoma/something/mu.png" />
-6:<img src="yonkoma/something/daicon4.png" />
+6:<a href="./e/20240928.png"><img src="yonkoma/something/daicon4.png" /></a>
