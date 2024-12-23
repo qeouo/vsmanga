@@ -1,0 +1,7 @@
+page_max=6;file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void nanka;
+1:<img src="./drill.png" /><img src="./takeabath.png" />
+2:<img src="./fingersnap.png" /><img src="./gaijin.png" />
+3:<img src="./real.png" /><img src="./chest2.png" />
+4:<img src="./gratitude.png" /><img src="./welovelev.png" />
+5:<a href="./20240508.png"><img src="./drill_heart.png" /></a><img src="./mu.png" />
+6:<a href="./e/20240928.png"><img src="./daicon4.png" /></a>

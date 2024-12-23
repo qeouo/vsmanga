@@ -1,0 +1,8 @@
+double_page=0;title=objectionable literature;
+1:<img src="./famima.png" style="max-height:90%;"/><br>I avoid content that people overseas may not understand.
+2:<img src="./sokonoomae.png" style="max-height:90%;"/><br>Many people will not understand what this means either.
+3:<img src="./bee_aomuke.png" style="max-height:90%;"/><br>Bird is the keeper of order.
+4:<img src="./mtg.png" />
+5:<img src="./illusion.png" />
+6:<img src="./lotusjewel.png" />
+7:<img src="./lillie_lev_rejected.png" style="max-height:90%;" /><br>rejected

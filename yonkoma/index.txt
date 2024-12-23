@@ -1,0 +1,11 @@
+page_max=10;file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4koma;
+1:<img src="./something_reeks.png" /><img src="./moomin.jpg" />
+2:<img src="./bird.png" /><img src="./smartbull.png" />
+3:<img src="./mario.png" /><img src="./rest.png" />
+4:<img src="./chest.png" /><img src="./cleaner.png" />
+5:<a href="./ice.png"><img src="./easyproblem.png" /></a><img src="./mimic_bee.png" />
+6:<a href="./daipan_rejected.png"><img src="./daipan.png" /></a><img src="./lev_error.png" />
+7:<img src="./face_to_face.png" /><img src="./sleeping_cif.png" />
+8:<img src="./sleeping_cif2.png" /><img src="./damaged_tail.png" />
+9:<img src="./rip_current.png" /><img src="./sword_blade.png" />
+10:<img src="./count.png" />
