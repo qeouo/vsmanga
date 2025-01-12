@@ -8,4 +8,4 @@ page_max=10;file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4ko
 7:<img src="./face_to_face.png" /><img src="./sleeping_cif.png" />
 8:<img src="./sleeping_cif2.png" /><img src="./damaged_tail.png" />
 9:<img src="./rip_current.png" /><img src="./sword_blade.png" />
-10:<img src="./count.png" />
+10:<img src="./count.png" /><img src="./maggot.png" />
