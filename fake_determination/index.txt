@@ -1,0 +1,2 @@
+page_max=4;page_max=4;title=Fake determination;
+:<img src="./fake_determination%n.png">
