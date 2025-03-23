@@ -7,3 +7,5 @@ double_page=0;title=objectionable literature;
 6:<img src="./lotusjewel.png" />
 7:<img src="./lillie_lev_rejected.png" style="max-height:90%;" /><br>rejected
 8:<img src="./mgs3.png" />
+9:<img src="./bathtab.png" />
+10:<img src="./ripcurrent.png" />
