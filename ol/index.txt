@@ -10,3 +10,4 @@ double_page=0;title=objectionable literature;
 9:<img src="./bathtab.png" />
 10:<img src="./ripcurrent.png" />
 11:<img src="./fusion.png" style="max-height:90%;" /><br/>Linnie or Nillie
+12:<img src="./cosmogangs.png" style="max-height:90%;" />
