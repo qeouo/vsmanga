@@ -3,3 +3,4 @@ page_max=4;file=_%n.png;yonkoma=1;title=Void tale;
 2:<img src="./akazukin.png" /><img src="./cifderella.png" />
 3:<img src="./rabbit_turtoise.png" /><img src="./hensel_gretel.png" />
 4:<a href="./snowwhite2.png"><img src="./snowwhite.png"/></a><img src="./cifderella2.png" />
+5:<img src="./threepigs.png"/>

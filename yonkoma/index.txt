@@ -12,4 +12,4 @@ file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4koma;
 11:<img src="./angel.png" /><img src="./cat.png" />
 12:<img src="./cat2.png" /><img src="./cat3.png" />
 13:<img src="./dis1.png" /><img src="./dis2.png" />
-14:<img src="./rod.png" />
+14:<img src="./rod.png" /><img src="./cat4.png" />
