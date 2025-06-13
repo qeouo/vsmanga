@@ -1,2 +1,2 @@
 page_max=4;title=Heart-Pounding Plan;
-:<img src="./heart-pounding_plan%n.png" />
+:<img src="./heart-pounding_%n.png" />
