@@ -1,2 +1,0 @@
-page_max=4;title=Heart Beat Plan;
-:<img src="./heartbeatplan_%n.png" />
