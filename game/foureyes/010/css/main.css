@@ -1,0 +1,31 @@
+html{
+	height:100%;
+
+	font-size:14px;
+	line-height:100%;
+	font-family:sans-serif;
+}
+body{
+	color:#fff;
+	background-color:#333;
+	margin:0;
+	height:100%;
+
+	text-align:center;
+}
+div#aaa{
+margin:0;
+	height:480px;
+}
+canvas{
+	object-fit:contain;
+	object-position:top;
+width:100%;
+height:100%;
+}
+span.main{
+	text-align:center;
+}
+canvas{
+cursor:url('../cursor.png') 7 0, auto; 
+}
