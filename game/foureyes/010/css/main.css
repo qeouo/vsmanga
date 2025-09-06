@@ -29,3 +29,11 @@ span.main{
 canvas{
 cursor:url('../cursor.png') 7 0, auto; 
 }
+
+a{
+color:white;
+	bottom:0px;
+	position:fixed;
+right:0px;
+
+}
