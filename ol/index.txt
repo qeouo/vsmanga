@@ -11,6 +11,7 @@ double_page=0;title=objectionable literature;
 10:<img src="./fusion.png" style="max-height:90%;" /><br/>Linnie or Nillie
 11:<img src="./cosmogangs.png" style="max-height:90%;" />
 12:<img src="./babel.png" style="max-height:90%;" />servant star
-13:<img src="./hancho.png" /><img src="./mukibird.png" />
+13:<img src="./hancho.png" style="max-width:45%;" /><img src="./mukibird.png" style="max-width:45%;" />
 14:<img src="./otokodachi.png" />
 15:<img src="./eclipse.png" />
+16:<img src="./sie.png" />
