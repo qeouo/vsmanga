@@ -15,3 +15,4 @@ file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4koma;
 14:<img src="./dis3.png" /><img src="./dis4.png" />
 15:<img src="./rod.png" /><img src="./cat4.png" />
 16:<img src="./wait.png" /><img src="./date.png" />
+17:<img src="./glassdestroyer.png" />
