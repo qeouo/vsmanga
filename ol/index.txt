@@ -15,3 +15,5 @@ double_page=0;title=objectionable literature;
 14:<img src="./otokodachi.png" />
 15:<img src="./eclipse.png" />
 16:<img src="./sie.png" />
+17:<img src="./heady.png" />
+18:<img src="./tf.png" />
