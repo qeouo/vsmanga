@@ -1,2 +1,2 @@
 page_max=4;title=A determination no one knows;
-:<img src="./nooneknows_%n.png" />
+*:<img src="./nooneknows_%n.png" />

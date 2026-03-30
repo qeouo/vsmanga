@@ -1,27 +1,28 @@
 double_page=0;title=objectionable literature;
-1:<img src="./famima.png" style="max-height:90%;"/><br>I avoid content that people overseas may not understand.
-2:<img src="./sokonoomae.png" style="max-height:90%;"/><br>Many people will not understand what this means either.
-3:<img src="./bee_aomuke.png" style="max-height:90%;"/><br>Bird is the keeper of order.
-4:<img src="./mtg.png" />
-5:<img src="./illusion.png" />
-6:<img src="./lotusjewel.png" />
-7:<img src="./lillie_lev_rejected.png" style="max-height:90%;" /><br>rejected
-8:<img src="./mgs3.png" />
-9:<img src="./ripcurrent.png" />
-10:<img src="./fusion.png" style="max-height:90%;" /><br/>Linnie or Nillie
-11:<img src="./cosmogangs.png" style="max-height:90%;" />
-12:<img src="./babel.png" style="max-height:90%;" />servant star
-13:<img src="./hancho.png" style="max-width:45%;" /><img src="./mukibird.png" style="max-width:45%;" />
-14:<img src="./otokodachi.png" />
-15:<img src="./eclipse.png" />
-16:<img src="./sie.png" />
-17:<img src="./heady.png" />
-18:<img src="./tf.png" />
-19:<img src="./diamond1.png" /><img src="./diamond2.png" />
-20:<img src="./megadora.png" />
-21:<img src="./8m.png" />
-22:<img src="./fingerpoke_1.png"  style='max-width:50%;'/><img src="./fingerpoke_2.png"  style='max-width:50%;'/>
-23:<img src="./autolock_1.png" style='max-width:45%;'/><img src="./autolock_2.png" style='max-width:45%;'/>
-24:<img src="./rakugaki.png" />
-25:<img src="./howtouse.png" />
-26:<img src="./samsara.png" />
+:<img src="./famima.png" style="max-height:90%;"/><br>I avoid content that people overseas may not understand.
+:<img src="./sokonoomae.png" style="max-height:90%;"/><br>Many people will not understand what this means either.
+:<img src="./bee_aomuke.png" style="max-height:90%;"/><br>Bird is the keeper of order.
+:<img src="./mtg.png" />
+:<img src="./illusion.png" />
+:<img src="./lotusjewel.png" />
+:<img src="./lillie_lev_rejected.png" style="max-height:90%;" /><br>rejected
+:<img src="./mgs3.png" />
+:<img src="./ripcurrent.png" />
+:<img src="./fusion.png" style="max-height:90%;" /><br/>Linnie or Nillie
+:<img src="./cosmogangs.png" style="max-height:90%;" />
+:<img src="./babel.png" style="max-height:90%;" />servant star
+:<img src="./hancho.png" style="max-width:45%;" /><img src="./mukibird.png" style="max-width:45%;" />
+:<img src="./otokodachi.png" />
+:<img src="./eclipse.png" />
+:<img src="./sie.png" />
+:<img src="./heady.png" />
+:<img src="./tf.png" />
+:<img src="./diamond1.png" /><img src="./diamond2.png" />
+:<img src="./megadora.png" />
+:<img src="./8m.png" />
+:<img src="./fingerpoke_1.png"  style='max-width:50%;'/><img src="./fingerpoke_2.png"  style='max-width:50%;'/>
+:<img src="./autolock_1.png" style='max-width:45%;'/><img src="./autolock_2.png" style='max-width:45%;'/>
+:<img src="./rakugaki.png" />
+:<img src="./howtouse.png" />
+:<img src="./samsara.png" />
+:<img src="./eat.png" />
