@@ -26,3 +26,5 @@ double_page=0;title=objectionable literature;
 :<img src="./howtouse.png" />
 :<img src="./samsara.png" />
 :<img src="./eat.png" />
+:<img src="./bighorns.png" /><img src="./bighorns12.png" />
+:<img src="./logicalconsideration.png" /><br>Logical consideration
