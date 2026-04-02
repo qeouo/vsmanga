@@ -18,4 +18,3 @@ file=cifs_melancholy/cifs_melancholy_%n.png;yonkoma=1;title=Void 4koma;
 :<img src="./glassdestroyer.png" /><img src="./wedding.png" />
 :<img src="./lightup.png" /><img src="./scout.png" />
 :<img src="./lepenseur.png" /><img src="./megane.png" />
-:<img src="./eat.png" />
