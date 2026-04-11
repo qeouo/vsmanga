@@ -59,12 +59,11 @@ height:90%;
 }
 div.page{
 	width:50%;
-	overflow: none;
+	overflow:auto;
 	display:inline-block;
 	text-align:center;
 	vertical-align:middle;
 	white-space:wrap;
-
 }
 #view[double_page="0"] div.page{
 width:100%;
@@ -96,6 +95,7 @@ img{
 	object-fit: contain;
 	max-height:100%;
 	max-width:100%;
+	vertical-align:top;
 }
 #view[yonkoma="1"] img{
 	max-width:50%;

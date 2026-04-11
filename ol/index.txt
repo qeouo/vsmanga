@@ -11,7 +11,7 @@ double_page=0;title=objectionable literature;
 :<img src="./fusion.png" style="max-height:90%;" /><br/>Linnie or Nillie
 :<img src="./cosmogangs.png" style="max-height:90%;" />
 :<img src="./babel.png" style="max-height:90%;" />servant star
-:<img src="./hancho.png" style="max-width:45%;" /><img src="./mukibird.png" style="max-width:45%;" />
+:<img src="./hancho.png" /><img src="./mukibird.png" />
 :<img src="./otokodachi.png" />
 :<img src="./eclipse.png" />
 :<img src="./sie.png" />
@@ -20,8 +20,8 @@ double_page=0;title=objectionable literature;
 :<img src="./diamond1.png" /><img src="./diamond2.png" />
 :<img src="./megadora.png" />
 :<img src="./8m.png" />
-:<img src="./fingerpoke_1.png"  style='max-width:50%;'/><img src="./fingerpoke_2.png"  style='max-width:50%;'/>
-:<img src="./autolock_1.png" style='max-width:45%;'/><img src="./autolock_2.png" style='max-width:45%;'/>
+:<img src="./fingerpoke_1.png" /><img src="./fingerpoke_2.png"/>
+:<img src="./autolock_1.png" /><img src="./autolock_2.png" />
 :<img src="./rakugaki.png" />
 :<img src="./howtouse.png" />
 :<img src="./samsara.png" />
