@@ -28,3 +28,5 @@ double_page=0;title=objectionable literature;
 :<img src="./eat.png" />
 :<img src="./bighorns.png" style="height:90%"/><img src="./bighorns12.png" /><br>I wasn't used to drawing things like this, so I couldn't control the size.<br> And rejected.
 :<img src="./logicalconsideration.png" /><br>Logical consideration
+:<img src="./25m.png" />
+:<img src="./bunnygarden.png" />
