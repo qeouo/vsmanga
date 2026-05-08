@@ -1,0 +1,3 @@
+page_max=12;title=Void Angel Ep01;
+0:<img src="./va01_00.png" />
+*:<img src="./va01_%n.png" />
