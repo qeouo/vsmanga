@@ -1,0 +1,3 @@
+page_max=1;title=AAAAAAAAAAAA;double_page=0
+1:<img src="./../warning.png" />
+

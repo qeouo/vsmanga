@@ -51,17 +51,28 @@ display:inline-block;
 		<li><a href="mviewer.html?file=./fake_determination//">Fake determination</a><span class="lastest">20250223</span></li>
 		<li><a href="mviewer.html?file=./manga/doughnut/">Doughnut hole Stranger</a><span class="lastest">20260124</span></li>
 		<li><a href="mviewer.html?file=./manga/nooneknows/">A determination no one knows</a><span class="lastest">20260124</span></li>
-		<li>Void Angel</li>
+		<li>Void Angel<span class="lastest">20260523</span></li>
 		<ul class="yoko">
-			<li><a href="mviewer.html?file=./manga/va/01/">01</a><span class="lastest">20260509</span></li>
+			<li><a href="mviewer.html?file=./manga/va/01/">01</a></li>
+			<li><a href="mviewer.html?file=./manga/va/02/">02</a></li>
+			<li><a href="mviewer.html?file=./manga/va/03/">03</a></li>
+			<li>04</li>
+			<li>05</li>
+			<li>06</li><br>
+			<li>07</li>
+			<li>08</li>
+			<li>09</li>
+			<li>10</li>
+			<li>11</li>
+			<li>12</li>
 		</ul>
 	</ul>
 </li>
-<li>e
-	<ul>
+<li>e<a href="./memories.html?file=./e/e2025.txt&page=-1" class="lastest">20251026</a>
+	<ul class="yoko">
 		<li><a href="./memories.html?file=./e/e2023.txt">2023</a></li>
-		<li><a href="./memories.html?file=./e/e2024.txt">2024</a><a href="./memories.html?file=./e/e2024.txt&page=-1" class="lastest">20250112</a></li>
-		<li><a href="./memories.html?file=./e/e2025.txt">2025</a><a href="./memories.html?file=./e/e2025.txt&page=-1" class="lastest">20251026</a></li>
+		<li><a href="./memories.html?file=./e/e2024.txt">2024</a></li>
+		<li><a href="./memories.html?file=./e/e2025.txt">2025</a></li>
 	</ul>
 </li>
 <li><a href="./memories.html?file=./douga/douga.txt">douga</a><a href="./memories.html?file=./douga/douga.txt&page=-1" class="lastest">20251119</a></li>
@@ -72,8 +83,48 @@ display:inline-block;
 </li>
 <li style="text-align:right;"><a href="mviewer.html?file=./ol/&current_page=-1" style="color:transparent;">*****</a></li>
 <li><a href="https://x.com/qeouo_vs">x.com/qeouo_vs</a></li>
+<li>simple form
+<form id ="form" action="https://script.google.com/macros/s/AKfycbxLlnmnFMKo-c8t1-MGucguNJQ-7kNgDhITt4pacCmNHpB2Zt2GHSGK0uKvZ9Q5Dt1Jxg/exec" method="POST">
+     <textarea name="msg" id="msg" rows="5" cols="80" required placeholder="comments and feedback"></textarea>
+     <button id="submit" type="button" style="vertical-align:top;" disabled required>Send</button>
+</form>
 </ul>
 </body>
 
+<script type="text/javascript">
+const form = document.getElementById("form");
+const msg = document.getElementById("msg");
+const submitButton = document.getElementById("submit")
+
+msg.addEventListener("input",()=>{
+	submitButton.disabled = (!msg.value);
+
+})
+
+submitButton.onclick = () => {
+  if( !window.confirm( 'Sending the message.')){
+	  return;
+  }
+  
+  const formData = new FormData(form)
+  const action = form.getAttribute("action")
+  const options = {
+    method: 'POST',
+    body: formData,
+  }
+  submitButton.disabled = true;
+  submitButton.innerText = "sending...";
+  fetch(action, options).then((e) => {
+    if(e.status === 200) {
+      alert("probably successful")
+      form.reset();
+    }else{
+        alert("error")
+        submitButton.disabled = false;
+	}
+    submitButton.innerText = "submit";
+  })
+}
+</script>
 </html>
 
