@@ -1,4 +1,4 @@
 page_max=12;title=Void Angel Ep01;
 0:<img src="./va01_00.png" />
 *:<img src="./va01_%n.png" />
-13:<div style="align-items:center;display:flex;height:100%;padding-left:16px;"><a href="mviewer.html?file=./manga/va/02/" />next episode</a></div>
+13:<div style="align-items:center;display:flex;height:100%;padding-left:16px;"><a style='position:relative;z-index:100;' href="mviewer.html?file=./manga/va/02/" />next episode</a></div>
