@@ -30,3 +30,6 @@ double_page=0;title=objectionable literature;
 :<img src="./logicalconsideration.png" /><br>Logical consideration
 :<img src="./25m.png" />
 :<img src="./bunnygarden.png" /><img src="./bunnygarden_2.png" />
+:<img src="./mido.png" /><img src="./mido2.png" />
+:<img src="./daimakai.png" />
+:<img src="./mom.png" />
